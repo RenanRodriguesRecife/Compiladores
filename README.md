@@ -14,13 +14,15 @@ Conceito de linguagens de programação:
 - Semântica: Conceitos usados para resolver um problemas de programação
 (o que significa um if, while...)
 
-um linguagem de programação é criada a partir da necessidade dos 3 pilares (usuários, desenvolvedores, aplicações). Determinadas aplicações acabam exigindo linguagens de programação distintas (web, ai, aplicações científicas...)
+Uma linguagem de programação é criada a partir da necessidade dos 3 pilares (usuários, desenvolvedores, aplicações). Determinadas aplicações acabam exigindo linguagens de programação distintas (web, ai, aplicações científicas...)
 
 
 Categorias de Linguagens
 
 1 - Imperativa
+
 2 - Declarativas (Funcionais e Lógicas)
+
 3 - Orientadas a Objetos
 
 OBS: A Arquitetura de Von Neumann
