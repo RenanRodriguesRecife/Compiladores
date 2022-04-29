@@ -34,6 +34,7 @@ Estrutura Lógica
 
 <img src=".assets/estrutura lógica.jpg">
 
+A representação semântica vai separar o frontend do backend
 
 Análise léxica:
 
