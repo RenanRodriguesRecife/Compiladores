@@ -1,6 +1,10 @@
 Compiladores:
 
-É um programa capaz de transformar um texto escrito em um computador em um programa executado pela máquina.
+Um programa de computador que traduz código escrito em uma determinada linguagem (código-fonte), em código escrito em outra linguágem (linguagem-objeto).
+Ex:
+- Traduzir de C++ para C
+- Java -> JVM
+- C para C (Pq? para tornar o código mais eficiente, menor e mais rápido)
 
 
 Conceito de linguagens de programação:
