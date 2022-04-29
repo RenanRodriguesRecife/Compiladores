@@ -28,6 +28,11 @@ acabou geranda as linguagens imperativas por conta  do gargalo no barramento de 
 
 <img src=".assets/gargalo.JPG">
 
+Estrutura Lógica
+
+<img src=".assets/estrutura lógica.jpg">
+
+
 Análise léxica:
 
 
