@@ -26,7 +26,7 @@ Categorias de Linguagens
 3 - Orientadas a Objetos
 
 OBS: A Arquitetura de Von Neumann
-acabou geranda as linguagens imperativas por conta  do gargalo no barramento de dados
+acabou geranda as linguagens imperativas por conta  do gargalo no barramento de dados. (quanto maior a quantidade de registradores menos a necessidade de acesso a memória)
 
 <img src=".assets/gargalo.JPG">
 
@@ -34,9 +34,20 @@ Estrutura Lógica
 
 <img src=".assets/estrutura lógica.jpg">
 
-A representação semântica vai separar o frontend do backend
+A representação semântica vai separar o frontend do backend (existe um novo padrão para representação intermediária LLVM)
+
+A representação semântica serve para representar diferentes linguagens. A partir dela é possível gerar código para qualquer máquina
 
 Análise léxica:
+
+Léxico
+- Conjunto de palavras de um determinado idioma
+
+- Tokens é a representação de um lexema de uma liguagem (Ex: palavra reservada While, if, nove de variável, número, palavra reservada...)
+
+- Analizador Léxico
+    - Recebe como entrada uma string e retorna tokens
+    - Retira símbolos sem valor sintático/semântico
 
 
 REFERÊNCIAS:
